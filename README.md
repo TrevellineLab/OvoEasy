@@ -1,12 +1,12 @@
-<h1 align="left">OvoEasy</h1>
+<h1 align="center">OvoEasy</h1>
 
-<p align="left">
+<p align="center">
   <em>Open-hardware incubators for axenically rearing oviparous vertebrates</em><br>
-  Trevelline Lab of Host-Microbe Interactions
+  Trevelline Lab
 </p>
 
 <p align="center">
-  <img src="docs/images/birdatron-front.jpeg" width="380"
+  <img src="docs/images/birdatron-front.jpeg" width="360"
        alt="The Birdatron 9000 incubator, closed. A white insulated chamber fronted by a black
             control panel with temperature and humidity displays, a power switch, and a green
             removable electronics module on the left.">
@@ -30,14 +30,16 @@ OvoEasy is built to close that gap. The system provides:
 
 - **Automated forced-air heating and humidification**, with independent temperature
   and humidity control
-- **Programmable setpoints** — for example 37.5 °C at 55% RH through incubation,
-  stepping up to 70% RH for the final 48 hours before hatch
+- **A 0.22 µm in-line air filter** that maintains sterility of the incubation
+  environment
 - **Compatibility with HEPA-filtered isolator cages** (e.g. Innovive MSX4), so eggs
   and hatchlings remain sealed from environmental microbes
-  
-The approach was developed to rear axenic House sparrows (*Passer domesticus*)
-nestlings, and can be applied to any oviparous vertebrate whose hatchlings
-can be reared in captivity (e.g., birds,reptiles, and amphibians).
+- **Programmable setpoints** — for example 37.5 °C at 55% RH through incubation,
+  stepping up to 70% RH for the final 48 hours before hatch
+
+The approach was developed to rear axenic House sparrow (*Passer domesticus*)
+nestlings, and generalizes to any oviparous terrestrial vertebrate whose hatchlings
+can be reared in captivity.
 
 ## About this repository
 
@@ -51,7 +53,8 @@ exactly.
 ### This branch: `main` — Birdatron 9000
 
 `main` documents the **Birdatron 9000**, the previous-generation incubator that is
-the subject of the **first publication** in the series: "Gut microbiota promote digestive function in songbirds" by Trevelline et al. It contains a single component:
+the subject of the **first publication** in the series. It contains a single
+component:
 
 | Component | Repository | Description |
 | --- | --- | --- |
@@ -72,10 +75,10 @@ forced-air heater and a humidification pump.
 
 |  |  |
 | :--: | :--: |
-| <img src="docs/images/chamber-open.jpeg" width="320" alt="The incubator with its door open, showing a clear isolator cage seated inside the chamber and a sterile air line entering through a port in the cage lid."> | <img src="docs/images/electronics-bay.jpeg" width="320" alt="The electronics module with its cover removed, exposing the humidification pump, a red-capped 0.22 micron in-line filter, and the microcontroller and driver boards."> |
-| Isolator cage seated in the chamber, with the sterile air line entering through the lid port. | Electronics bay: humidification pump, 0.22 µm in-line filter, and microcontroller. |
-| <img src="docs/images/chamber-interior.jpeg" width="320" alt="Top-down view into the empty chamber, showing the sensor housing mounted on the rear wall above the cage, a circulation fan set into the base plate, and an LED strip along the front edge."> | <img src="docs/images/birdatron-angle.jpeg" width="320" alt="Three-quarter view of the closed incubator, showing the depth of the insulated chamber."> |
-| Chamber interior: rear-mounted sensor, base-plate circulation fan, and LED strip. | The insulated chamber, closed. |
+| <img src="docs/images/chamber-open.jpeg" height="260" alt="The incubator with its door open, showing a clear isolator cage seated inside the chamber and a sterile air line entering through a port in the cage lid."> | <img src="docs/images/birdatron-angle.jpeg" height="260" alt="Three-quarter view of the closed incubator, showing the depth of the insulated chamber."> |
+| Isolator cage seated in the chamber, with the sterile air line entering through the lid port. | The insulated chamber, closed. |
+| <img src="docs/images/electronics-module.jpeg" height="320" alt="The electronics module with its cover removed, exposing the humidification pump, a red-capped 0.22 micron in-line filter, and the microcontroller and driver boards."> | <img src="docs/images/chamber-interior.jpeg" height="320" alt="Top-down view into the empty chamber, showing the sensor housing mounted on the rear wall above the cage, a circulation fan set into the base plate, and an LED strip along the front edge."> |
+| Electronics module: humidification pump, 0.22 µm in-line filter, and microcontroller. | Chamber interior: rear-mounted sensor, base-plate circulation fan, and LED strip. |
 
 > **Note:** these photographs show the Birdatron 9000 as used in the first
 > manuscript. They do not depict the OvoEasy redesign, which is under development on
