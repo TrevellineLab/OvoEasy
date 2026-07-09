@@ -1,6 +1,6 @@
 <h1 align="left">OvoEasy</h1>
 
-<p align="center">
+<p align="left">
   <em>Open-hardware incubators for axenically rearing oviparous vertebrates</em><br>
   Trevelline Lab
 </p>
