@@ -1,8 +1,8 @@
-<h1 align="left">OvoEasy</h1>
+<h1 align="center">OvoEasy</h1>
 
 <p align="center">
   <em>Open-hardware incubators for axenically rearing oviparous vertebrates</em><br>
-  Trevelline Lab of Host-Microbe Interactions
+  Trevelline Lab
 </p>
 
 <p align="center">
