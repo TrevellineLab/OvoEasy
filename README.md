@@ -1,4 +1,4 @@
-<h1 align="center">OvoEasy</h1>
+<h1 align="left">OvoEasy</h1>
 
 <p align="center">
   <em>Open-hardware incubators for axenically rearing oviparous vertebrates</em><br>
@@ -30,16 +30,14 @@ OvoEasy is built to close that gap. The system provides:
 
 - **Automated forced-air heating and humidification**, with independent temperature
   and humidity control
-- **A 0.22 µm in-line air filter** that maintains sterility of the incubation
-  environment
-- **Compatibility with HEPA-filtered isolator cages** (e.g. Innovive MSX4), so eggs
-  and hatchlings remain sealed from environmental microbes
 - **Programmable setpoints** — for example 37.5 °C at 55% RH through incubation,
   stepping up to 70% RH for the final 48 hours before hatch
-
-The approach was developed to rear axenic House sparrow (*Passer domesticus*)
-nestlings, and generalizes to any oviparous terrestrial vertebrate whose hatchlings
-can be reared in captivity.
+- **Compatibility with HEPA-filtered isolator cages** (e.g. Innovive MSX4), so eggs
+  and hatchlings remain sealed from environmental microbes
+  
+The approach was developed to rear axenic House sparrows (*Passer domesticus*)
+nestlings, and can be applied to any oviparous vertebrate whose hatchlings
+can be reared in captivity (e.g., birds,reptiles, and amphibians).
 
 ## About this repository
 
@@ -53,8 +51,7 @@ exactly.
 ### This branch: `main` — Birdatron 9000
 
 `main` documents the **Birdatron 9000**, the previous-generation incubator that is
-the subject of the **first publication** in the series. It contains a single
-component:
+the subject of the **first publication** in the series: "Gut microbiota promote digestive function in songbirds" by Trevelline et al. It contains a single component:
 
 | Component | Repository | Description |
 | --- | --- | --- |
