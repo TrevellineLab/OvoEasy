@@ -2,7 +2,7 @@
 
 <p align="left">
   <em>Open-hardware incubators for axenically rearing oviparous vertebrates</em><br>
-  Trevelline Lab
+  Trevelline Lab of Host-Microbe Interactions at Kent State University
 </p>
 
 <p align="center">
