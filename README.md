@@ -30,12 +30,11 @@ OvoEasy is built to close that gap. The system provides:
 
 - **Automated forced-air heating and humidification**, with independent temperature
   and humidity control
-- **A 0.22 µm in-line air filter** that maintains sterility of the incubation
-  environment
-- **Compatibility with HEPA-filtered isolator cages** (e.g. Innovive MSX4), so eggs
-  and hatchlings remain sealed from environmental microbes
 - **Programmable setpoints** — for example 37.5 °C at 55% RH through incubation,
   stepping up to 70% RH for the final 48 hours before hatch
+- **Compatibility with HEPA-filtered isolator cages** (e.g. Innovive MSX4), so eggs
+  and hatchlings remain sealed from environmental microbes
+
 
 The approach was developed to rear axenic House sparrow (*Passer domesticus*)
 nestlings, and generalizes to any oviparous terrestrial vertebrate whose hatchlings
@@ -53,7 +52,7 @@ exactly.
 ### This branch: `main` — Birdatron 9000
 
 `main` documents the **Birdatron 9000**, the previous-generation incubator that is
-the subject of the **first publication** in the series. It contains a single
+the subject of the **first publication** in the series: "Gut microbiota promote early-life digestive function in songbirds" by Trevelline et al. It contains a single
 component:
 
 | Component | Repository | Description |
